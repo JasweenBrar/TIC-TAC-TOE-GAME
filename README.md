@@ -82,11 +82,16 @@ while True:
 
 ## 💠 Explanation:
 
-⭐ *print_board()* function as the name says just helps in printing the current tic-tac-toe board.
-⭐ *player_move()* function is the most important function in this tic-tac-toe game. This function takes the position as input from the user and fills that position in the board with the symbol of that player.
-⭐ *is_victory()* function just checks if any of the two players have won or not.
-⭐ *is_draw()* function checks if the game is drawn or not.
+⭐ **print_board()** function as the name says just helps in printing the current tic-tac-toe board.
+
+⭐ **player_move()** function is the most important function in this tic-tac-toe game. This function takes the position as input from the user and fills that position in the board with the symbol of that player.
+
+⭐ **is_victory()** function just checks if any of the two players have won or not.
+
+⭐ **is_draw()** function checks if the game is drawn or not.
+
 ⭐ And then comes our main while loop which keeps the game going.
+
 ⭐ This program will stop only when either one player has won or the game is drawn.
 
 ## 💠 Demo:
