@@ -96,7 +96,59 @@ while True:
 
 ```
 
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
+Your turn player 1     
+Enter your move (1-9): 5
 
+|   |   |   |     
+|   | X |   |     
+|   |   |   |     
+
+Your turn player 2
+Enter your move (1-9): 1
+
+| O |   |   |
+|   | X |   |
+|   |   |   |
+
+Your turn player 1
+Enter your move (1-9): 9
+
+| O |   |   |
+|   | X |   |
+|   |   | X |
+
+Your turn player 2
+Enter your move (1-9): 2
+
+| O | O |   |
+|   | X |   |
+|   |   | X |
+
+Your turn player 1
+Enter your move (1-9): 3
+
+| O | O | X |
+|   | X |   |
+|   |   | X |
+
+Your turn player 2
+Enter your move (1-9): 7
+
+| O | O | X |
+|   | X |   |
+| O |   | X |
+
+Your turn player 1
+Enter your move (1-9): 6
+
+| O | O | X |
+|   | X | X |
+| O |   | X |
+
+X wins! Congratulations!
 ```
 
